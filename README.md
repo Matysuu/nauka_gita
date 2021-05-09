@@ -1,9 +1,4 @@
-1
-2
-3
-3
-4
-5
-git jest fajny
+## NAUKA GIT
+git jest fajny, super super
 studia super
 ale zabawa
