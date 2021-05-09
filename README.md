@@ -18,3 +18,6 @@ ale zabawa
 Sztos
   * Sztos
   * Sztos
+
+
+#### SKONCZONE
