@@ -6,3 +6,7 @@ ale zabawa
 ![obraz](https://paczaizm.pl/content/wp-content/uploads/bazur-piesel.jpg)
 
 ##Modyfikowanie przez przeglądarkę
+
+Sztos
+  * Sztos
+  * Sztos
